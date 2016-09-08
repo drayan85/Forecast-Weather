@@ -12,8 +12,6 @@
 
 
 ## Terms
-Your use of this sample is subject to, and by using or downloading the sample files you agree to comply with, the 
-[Google APIs Terms of Service](https://developers.google.com/terms/) and ...).
 
 [Data provided by ](http://openweathermap.org/)[OpenWeatherMap, under the](http://creativecommons.org/licenses/by-sa/2.0/) [Creative Commons license]
 
