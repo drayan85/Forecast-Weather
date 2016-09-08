@@ -1,5 +1,7 @@
 # Android Application for Forecast Weather
 
+## TODO CONFIG
+In {src/main/res/values/keys.xml} directory, have to add the OpenWeatherMap API key which you can get from the (http://openweathermap.org/) after Register account.
 
 
 ## Dependencies
