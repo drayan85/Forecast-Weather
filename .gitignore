@@ -1,0 +1,22 @@
+# Gradle
+.gradle
+build
+out
+
+# Other
+.DS_Store
+dist
+tmp
+/local.properties
+
+# IntelliJ IDEA
+.idea
+*.iml
+*.ipr
+*.iws
+classes
+
+
+/.idea/workspace.xml
+/build
+/captures
